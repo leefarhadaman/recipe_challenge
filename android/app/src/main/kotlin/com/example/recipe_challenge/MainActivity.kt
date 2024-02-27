@@ -1,0 +1,5 @@
+package com.example.recipe_challenge
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
